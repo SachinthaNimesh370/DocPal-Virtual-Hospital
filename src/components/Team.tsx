@@ -108,19 +108,17 @@ const Team = () => {
             
             <div className="bg-white rounded-xl p-6 shadow-sm">
               <h4 className="text-lg font-semibold text-gray-900 mb-4">Advisory Board</h4>
-              <div className="space-y-3">
-                <div className="flex items-center justify-between">
-                  <span className="text-gray-700">Dr. Rajesh Khanna</span>
-                  <span className="text-sm text-gray-500">Former AIIMS Director</span>
+              <div className="flex flex-row items-start justify-between">
+                <div className="flex flex-col items-start space-y-1">
+                  <span className="text-gray-700">Dr.(Mrs.) J.Jananie</span>
+                  <span className="text-sm text-gray-500">Senior Lecturer Grade II</span>
+                  <span className="text-sm text-gray-500">Department of Computer Engineering,</span>
+                  <span className="text-sm text-gray-500">Faculty Of Engineering</span>
+                  <span className="text-sm text-gray-500">University of Jaffna</span>
                 </div>
-                <div className="flex items-center justify-between">
-                  <span className="text-gray-700">Meera Joshi</span>
-                  <span className="text-sm text-gray-500">Ex-McKinsey Partner</span>
-                </div>
-                <div className="flex items-center justify-between">
-                  <span className="text-gray-700">Suresh Narayanan</span>
-                  <span className="text-sm text-gray-500">Healthcare Investor</span>
-                </div>
+                <img src="dist/assets/img/jananie.jpg" alt="Advisor" style={{ width: '120px', height: '120px', objectFit: 'cover', borderRadius: '50%', border: '2px solid #b7b7b7ff' }} />
+              
+                
               </div>
             </div>
           </div>
