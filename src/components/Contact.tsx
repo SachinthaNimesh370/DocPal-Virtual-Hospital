@@ -46,8 +46,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="text-lg font-semibold text-gray-900">Email</h4>
-                    <p className="text-gray-600">hello@docpal.com</p>
-                    <p className="text-gray-600">support@docpal.com</p>
+                    <p className="text-gray-600">info@docpal.com</p>
                   </div>
                 </div>
 
@@ -57,8 +56,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="text-lg font-semibold text-gray-900">Phone</h4>
-                    <p className="text-gray-600">+91 9876543210</p>
-                    <p className="text-gray-600">+91 8765432109</p>
+                    <p className="text-gray-600">+94 787654321</p>
+                    <p className="text-gray-600">+94 776543210</p>
                   </div>
                 </div>
 
@@ -69,8 +68,8 @@ const Contact = () => {
                   <div>
                     <h4 className="text-lg font-semibold text-gray-900">Address</h4>
                     <p className="text-gray-600">DocPal Technologies Pvt. Ltd.</p>
-                    <p className="text-gray-600">Bengaluru, Karnataka 560001</p>
-                    <p className="text-gray-600">India</p>
+                    <p className="text-gray-600">Kilinochchi , Northern Province</p>
+                    <p className="text-gray-600">Sri Lanka</p>
                   </div>
                 </div>
               </div>
@@ -88,7 +87,7 @@ const Contact = () => {
                   <div className="w-8 h-8 bg-blue-100 rounded-lg flex items-center justify-center">
                     <span className="text-blue-600 font-bold text-sm">in</span>
                   </div>
-                  <span>LinkedIn Company Page</span>
+                  <span>DocPal Virtual Health Care Service</span>
                 </a>
                 <a 
                   href="mailto:careers@docpal.com"
