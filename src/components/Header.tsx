@@ -29,7 +29,7 @@ const Header = () => {
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center space-x-2">
             <div className="w-10 h-10">
-              <img src="/dist/assets/img/DocPal_Logo_BackR.png" alt="DocPal Logo"  />
+              <img src="dist/assets/img/DocPal_logo.jpeg" alt="DocPal Logo"  />
             </div>
             <div >
               <span style={{color:'#007bff'}} className="text-3xl font-bold text-blue-600">Doc</span>
