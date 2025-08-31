@@ -4,20 +4,28 @@ import { Linkedin, Mail, ExternalLink } from 'lucide-react';
 const Team = () => {
   const teamMembers = [
     {
-      name: 'Rajesh Kumar',
+      name: 'Thilakarathne B.P.T.S.',
       role: 'CEO & Founder',
-      expertise: 'Healthcare Technology, Business Strategy',
+      expertise: 'Electronic & Electrical Engineering, University of Jaffna',
       linkedin: 'https://linkedin.com/in/rajeshkumar',
-      email: 'rajesh@docpal.com',
-      image: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400'
+      email: 'suneththilakarathne@gmail.com',
+      image: 'dist/assets/img/thilakarathna.jpeg'
     },
     {
-      name: 'Dr. Priya Sharma',
-      role: 'Chief Medical Officer',
-      expertise: 'Internal Medicine, Telemedicine',
+      name: 'Nimesh S.P.S.',
+      role: 'CTO & Co-Founder',
+      expertise: 'Computer Engineering, University of Jaffna',
       linkedin: 'https://linkedin.com/in/priyasharma',
-      email: 'priya@docpal.com',
-      image: 'https://images.pexels.com/photos/5327580/pexels-photo-5327580.jpeg?auto=compress&cs=tinysrgb&w=400'
+      email: 'sachinthanimesh370@gmail.com',
+      image: 'dist/assets/img/nimesh.jpeg'
+    },
+    {
+      name: 'Gunarathna A.S.M.N',
+      role: 'Project Manager & Co-Founder',
+      expertise: 'Computer Engineering, University of Jaffna',
+      linkedin: 'https://linkedin.com/in/priyasharma',
+      email: 'satharakanilmantha1@gmail.com',
+      image: 'dist/assets/img/gunarathna.jpeg'
     },
   
   ];
