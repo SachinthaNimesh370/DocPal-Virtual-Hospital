@@ -19,38 +19,7 @@ const Team = () => {
       email: 'priya@docpal.com',
       image: 'https://images.pexels.com/photos/5327580/pexels-photo-5327580.jpeg?auto=compress&cs=tinysrgb&w=400'
     },
-    {
-      name: 'Arjun Patel',
-      role: 'CTO',
-      expertise: 'AI/ML, Full-Stack Development',
-      linkedin: 'https://linkedin.com/in/arjunpatel',
-      email: 'arjun@docpal.com',
-      image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400'
-    },
-    {
-      name: 'Sneha Gupta',
-      role: 'Head of Product',
-      expertise: 'UX/UI Design, Product Strategy',
-      linkedin: 'https://linkedin.com/in/snehagupta',
-      email: 'sneha@docpal.com',
-      image: 'https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=400'
-    },
-    {
-      name: 'Vikram Singh',
-      role: 'Head of Operations',
-      expertise: 'Healthcare Operations, Logistics',
-      linkedin: 'https://linkedin.com/in/vikramsingh',
-      email: 'vikram@docpal.com',
-      image: 'https://images.pexels.com/photos/2741701/pexels-photo-2741701.jpeg?auto=compress&cs=tinysrgb&w=400'
-    },
-    {
-      name: 'Anita Reddy',
-      role: 'Head of Marketing',
-      expertise: 'Digital Marketing, Brand Strategy',
-      linkedin: 'https://linkedin.com/in/anitareddy',
-      email: 'anita@docpal.com',
-      image: 'https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=400'
-    }
+  
   ];
 
   return (
